@@ -9,5 +9,6 @@ coming!
 # Publications
 coming!
 
-[link](https://github.com/nathanlem1/MTF-Lib)
-##### ggggg
+# Useful Links
+[LinkedIn](https://www.linkedin.com/in/nathanael-l-baisa-phd-53479842/)
+
