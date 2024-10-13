@@ -1,3 +1,5 @@
+![](./my_photo.jfif)
+
 # Bio
 coming soon!
 
