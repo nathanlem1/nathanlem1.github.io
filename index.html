@@ -3,49 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Pages Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
-        h1 {
-            font-size: 2.5em;
-        }
-        p {
-            font-size: 1.2em;
-            line-height: 1.5;
-        }
-        footer {
-            margin-top: 20px;
-            text-align: center;
-            color: #777;
-        }
-    </style>
+    <title>My GitHub.io Website with Tabs</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <header>
         <h1>Welcome to My GitHub Pages Website</h1>
+        <p>Explore different sections by clicking on the tabs below.</p>
     </header>
 
-    <section>
-        <p>This is a simple website hosted on GitHub Pages. You can use GitHub Pages to create personal, project, or organization websites easily. The layout of this page is simple, and you can style it further using HTML and CSS.</p>
-        <p>Feel free to explore more about how you can build and customize your site.</p>
-    </section>
+    <div class="tab">
+        <button class="tablinks" onclick="openTab(event, 'Home')" id="defaultTab">Home</button>
+        <button class="tablinks" onclick="openTab(event, 'About')">About</button>
+        <button class="tablinks" onclick="openTab(event, 'Contact')">Contact</button>
+    </div>
+
+    <!-- Tab content -->
+    <div id="Home" class="tabcontent">
+        <h2>Home</h2>
+        <p>Welcome to the homepage of this sample GitHub Pages website.</p>
+    </div>
+
+    <div id="About" class="tabcontent">
+        <h2>About</h2>
+        <p>This section provides information about the purpose of this site and its content.</p>
+    </div>
+
+    <div id="Contact" class="tabcontent">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to us through the provided contact details.</p>
+    </div>
 
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 My GitHub.io Website. All rights reserved.</p>
     </footer>
 
+    <script src="script.js"></script>
 </body>
 </html>
