@@ -1,4 +1,4 @@
-![](./my_photo.jfif)
+![](./my_photo.jfif) I am a research scientist.
 
 # Bio
 coming soon!
