@@ -1,5 +1,3 @@
-# Welcome
-
 # Bio
 coming soon!
 
