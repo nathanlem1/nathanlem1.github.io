@@ -13,9 +13,6 @@ Dr. Nathanael received his PhD in Electrical Engineering (with focus on Computer
 
 His research interests include computer vision and machine learning, with current research emphasis on deep learning and Bayesian algorithms for solving computer vision (both 2D and 3D) problems such as object detection, recognition, tracking, scene understanding using multimodal learning (vision, language, etc.), generative AI (e.g. image synthesis), etc. for different applications such as intelligent video surveillance, biometrics, autonomous driving, robot perception, healthcare, etc. His work has been published in top-tier international journals, such as IEEE Access, Journal of Visual Communication and Image Representation, and Digital Signal Processing. He has also published and presented at leading computer vision conferences, including ICPR, IPTA, VISAPP, IWBF and FUSION. He serves as a committee member or technical chair for international conferences.
 
-# Work Experience 
-coming soon!
-
 # Publications
 Please look at my [GoogleScholar](https://scholar.google.co.uk/citations?user=EKyk-IwAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Nathanael-L-Baisa-2) for my publications.
 
