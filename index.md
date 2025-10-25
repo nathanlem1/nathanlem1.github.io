@@ -6,6 +6,7 @@
 <!--- https://github.com/ZeyuFu/zeyufu.github.io --->
 <!---https://github.com/ale152/ale152.github.io --->
 
+  [](./my_photo.jfif)
 # Bio
 Dr. Nathanael L. Baisa is currently a Senior Lecturer in Artificial Intelligence (AI) in the School of Computer Science and Informatics, De Montfort University (DMU), and a Consultant as a Senior Machine Learning Scientist for different companies. Before joining DMU in June 2021 as a Lecturer in AI, he was a senior research associate at Lancaster university (Oct 2020 – May 2021), a research scientist at Oosto (Feb 2019 – Aug 2020) and a research fellow at university of Lincoln (Oct 2017 – Dec 2018), all in computer vision and machine learning, where he participated as a main researcher in many research projects funded by ERC (under EU’s horizon 2020), EPSRC and Innovate UK. Hence, he has developed extensive experience in computer vision and machine learning, having worked in both industry and academia.
 
