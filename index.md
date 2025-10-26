@@ -20,4 +20,4 @@ Please look at my [GoogleScholar](https://scholar.google.co.uk/citations?user=EK
 [LinkedIn](https://www.linkedin.com/in/nathanael-l-baisa-phd-53479842/), [GitHub](https://github.com/nathanlem1)
 
 # Contact
-nathanaellmss@gmail.com
+Email: nathanaellmss@gmail.com
