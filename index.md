@@ -17,7 +17,7 @@ His research interests include computer vision and machine learning, with curren
 Please look at my [GoogleScholar](https://scholar.google.co.uk/citations?user=EKyk-IwAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Nathanael-L-Baisa-2) for my publications.
 
 # Useful Links
-[LinkedIn](https://www.linkedin.com/in/nathanael-l-baisa-phd-53479842/), [GitHub](https://github.com/nathanlem1)
+[LinkedIn](https://www.linkedin.com/in/nathanael-l-baisa-phd-53479842/), [GitHub](https://github.com/nathanlem1), [ORCID ID](https://orcid.org/0000-0003-2564-4681)
 
 # Contact
 Email: nathanaellmss@gmail.com
